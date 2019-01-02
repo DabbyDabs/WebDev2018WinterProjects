@@ -1,0 +1,31 @@
+body{
+    background: lavender;
+}
+
+.special{
+    display:block;
+    
+    padding: 5px;
+    border:groove pink;
+    margin-left:20px;
+    background: gold;
+    height: 50px;
+    width: 1050px;
+    margin-top:20px;
+
+}
+#parent{
+    margin-left:20px;
+    height: 200px;
+    margin-top:20px;
+
+}
+.done{
+background:greenyellow;
+}
+.notDone{
+background:gold;
+}
+.hide{
+    display:none;
+}
